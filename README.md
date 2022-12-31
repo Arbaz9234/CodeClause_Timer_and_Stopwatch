@@ -2,7 +2,7 @@
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/) <br>
-<a href="[https://cctimerandstopwatch.netlify.app/](https://cctimerandstopwatch.netlify.app/)/"></a>
+<a href="https://cctimerandstopwatch.netlify.app/"> <img src="https://svgur.com/i/iob.svg" /> </a>
 
 ## Digital Stopwatch
 
